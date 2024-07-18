@@ -1,1 +1,1 @@
-"# Generics" 
+Generic stuff that I may or may not use in some of my own Java projects
